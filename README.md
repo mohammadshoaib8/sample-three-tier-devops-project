@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Three-Tier DevOps Project</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=React+%7C+Node.js+%7C+MongoDB;Dockerized+Three-Tier+Application;DevOps+Project+on+AWS;CI%2FCD+%7C+Kubernetes+%7C+Monitoring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=React+%7C+Node.js+%7C+MongoDB;Dockerized+Three-Tier+Application;DevOps+Project+on+AWS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,5 +45,11 @@ Backend:
 http://<SERVER-IP>:3000/tasks
 
 
+🙌 Author
 
+👤 Mohammad Shoaib
+💼 AWS and DevOps Engineer
+
+## 🙌 Connect with me
+www.linkedin.com/in/mohammadshoaib8
 
